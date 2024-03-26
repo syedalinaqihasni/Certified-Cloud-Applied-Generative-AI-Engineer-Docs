@@ -1,0 +1,39 @@
+tools: 
+nodejs : node -v
+vscode : latest
+tsc : install npm i TSC or Typesrisctsc -v
+
+tsc file name : for compiling
+node filename: for runing file 
+
+transpilation
+
+tsc --init : for initializaing config name 
+tsc -w : for watch (preview only)
+
+data types:
+string
+number
+bollean
+undefine
+onject
+
+typescript datatype:
+any
+unknkown
+symbol
+array
+
+operaters:
+arthmatic (+,-,*,/,**)
+conditional operaters {&&, ||}
+
+
+COnditions:
+if 
+else if
+if else if
+
+nested loop Loop within
+nested say bachany kay liay && loop lagin
+BRACKETNGS()
